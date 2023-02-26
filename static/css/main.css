@@ -6,7 +6,7 @@
 }
 
 body {
-background: white;
+background: white !important;
 }
 
 .btn btn-primary btn-lg right {
